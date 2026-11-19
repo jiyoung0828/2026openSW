@@ -13,7 +13,7 @@ cnt = 3
 unused = 0
 
 for i in range(cnt):
-    print("Helo, " + name + "!") 
+    print("Hello, " + name + "!") 
 
 print("Done") 
 
